@@ -1,0 +1,7 @@
+{
+  "name": "FluentCheck | Executive English Coach",
+  "description": "An AI-powered pronunciation and fluency assistant for modern professionals and advanced learners. Practice scenarios, role-play, and pronunciation with instant feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
